@@ -1,0 +1,121 @@
+
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: rgb(29, 59, 80) !important;
+}
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: rgb(170, 92, 56) !important;
+}
+header{
+    background-color: rgb(29, 59, 80);
+}
+body{
+    background-color: rgb(218, 215, 209);
+}
+.lead fw-normal text-white-50 mb-4 {
+    background-color: rgb(29, 59, 80);
+}
+.mb-4{
+    background-color: rgb(218, 215, 209);
+}
+
+.mb-2 {
+    color: rgb(218, 215, 209)
+}
+
+a{
+    color: rgb(76, 95, 76)
+}
+
+a :hover {
+    color: rgb(50, 61, 50);
+}
+
+
+ol {
+    font-family: Sans-Serif, Arial, Helvetica;
+    font-size: medium;
+    color: rgb(76, 95, 76);
+    font-style: normal;
+}
+
+.card-body1 {
+    background-color: rgb(76, 95, 76);
+    color: white;
+
+}
+
+.fs-51{
+    color:white;
+}
+
+.text-muted1 {
+    color:white;
+    font-size: small;
+}
+
+.p1 {
+    color: white;
+    font-size: small;
+}
+
+nav {
+    display: block;
+}
+
+.tab {
+    display: flex; 
+    border:solid 3px rbg (29, 59,80);
+    background-color: rgb(29, 59, 80);
+    color: white;
+    flex-direction: row;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+ul {
+    font-family: Sans-Serif, Arial, Helvetica;
+    font-size: medium;
+    color: black;
+    font-style: normal;
+}
+
+.li2 {
+    float: right;
+  }
+  
+.a2 {
+    display: block;
+    padding: 8px;
+    background-color: rgb(29, 59, 80);
+    color: white;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.myDiv {
+    border: 100px outset rgb(218, 215, 209);
+    background-color: rgb(29, 59, 80);
+    text-align: center;
+    color: white;
+    font-family: sans-serif, Arial, Helvetica;
+}
+
+h1 {
+    font-family: sans-serif, Arial, Helvetica;
+    color: rgb(29, 59, 80);
+}
+
+footer {
+    display: flex; 
+    border:solid 3px rbg (29, 59,80);
+    background-color: rgb(29, 59, 80);
+    color: white;
+    flex-direction: row;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
